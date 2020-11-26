@@ -1,0 +1,22 @@
+.a3{
+    background: linear-gradient(rgba(0,0,0,.7), rgba(0,0,0,.7)), url(img/img1.gif);
+    height: 100%;
+    width: 100%;
+    text-align: center; 
+    padding-top: 200px;
+    padding-bottom: 200px; ;
+    padding-left: 50px;;
+}
+.a5{
+      color : rgb(116, 116, 250);
+}
+.a6{
+    border: 1px solid rgb(200,200,200);
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    padding-top:30px;
+    padding-bottom: 30px;
+    background-color: rgb(73, 38, 44);
+    box-shadow: 5px 5px 5px 5px rgb(54, 15, 15);
+}
