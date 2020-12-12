@@ -25,7 +25,7 @@ function fun1(){
     c=Math.ceil(c);
     console.log(c,d);
     document.getElementById("a2").value = b +'years '+ d+ 'Months '+ c +'days';
-    document.getElementById("a1").value+=" Years";
+    document.getElementById("a1").value+="";
 }
 function fun2(){
     document.getElementById("a1").value="";
